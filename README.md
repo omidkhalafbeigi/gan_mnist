@@ -1,1 +1,2 @@
-# gan_mnist
+# Generative Adversarial Networks - MNIST Dataset
+# Keras - Tensorflow
