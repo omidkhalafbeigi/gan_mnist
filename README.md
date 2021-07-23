@@ -2,4 +2,4 @@
 
 Visit GAN Diagram in current repository.
 
-(https://raw.githubusercontent.com/omidkhalafbeigi/gan_mnist/main/GAN.JPG)
+![alt text](https://raw.githubusercontent.com/omidkhalafbeigi/gan_mnist/main/GAN.JPG)
