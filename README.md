@@ -1,2 +1,1 @@
-# Generative Adversarial Networks - MNIST Dataset
-# Keras - Tensorflow
+# Generative Adversarial Networks - MNIST Dataset - From scratch by Keras 
